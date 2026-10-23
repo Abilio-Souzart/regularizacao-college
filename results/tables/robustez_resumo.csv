@@ -1,0 +1,7 @@
+,RMSE médio,desvio padrão,diferença média vs OLS (%),diferença mediana vs OLS (%),% divisões melhor que OLS,% divisões como melhor modelo
+OLS,1151.94,180.64,0.0,0.0,,32.0
+Ridge,1161.7,192.63,0.72,-0.02,68.0,4.0
+LASSO,1156.92,191.51,0.31,-0.0,62.0,0.0
+LASSO (1-EP),1228.66,252.15,6.07,7.19,22.0,14.0
+Elastic Net,1163.03,194.18,0.82,-0.01,68.0,0.0
+Elastic Net (1-EP),1263.24,389.53,7.93,-2.66,62.0,50.0

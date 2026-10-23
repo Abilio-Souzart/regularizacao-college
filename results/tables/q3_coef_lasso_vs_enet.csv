@@ -1,0 +1,18 @@
+,LASSO (1-EP),"Elastic Net α=0,5 (1-EP)",OLS
+Accept,3400.6,3229.3,4474.7
+Enroll,0.0,11.3,-1158.0
+Top10perc,162.0,351.8,559.6
+Top25perc,0.0,68.4,-70.7
+F_Undergrad,0.0,189.5,163.2
+P_Undergrad,0.0,-15.9,26.7
+Outstate,0.0,-206.3,-320.4
+Room_Board,0.0,221.8,152.8
+Books,0.0,40.5,30.6
+Personal,0.0,7.4,53.3
+PhD,0.0,-99.0,-151.0
+Terminal,0.0,-37.1,-16.3
+S_F_Ratio,-0.0,72.7,77.8
+perc_alumni,0.0,-64.0,17.1
+Expend,0.0,327.1,324.0
+Grad_Rate,0.0,170.6,132.3
+Private_Yes,-0.0,-199.5,-248.2

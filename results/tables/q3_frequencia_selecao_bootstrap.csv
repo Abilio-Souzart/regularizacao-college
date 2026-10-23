@@ -1,0 +1,18 @@
+,LASSO,Elastic Net (α=0.5)
+Accept,1.0,1.0
+Enroll,0.02,0.995
+Top10perc,0.9,1.0
+Top25perc,0.03,1.0
+F_Undergrad,0.055,1.0
+P_Undergrad,0.0,1.0
+Outstate,0.0,0.995
+Room_Board,0.0,1.0
+Books,0.0,1.0
+Personal,0.0,0.995
+PhD,0.0,1.0
+Terminal,0.0,1.0
+S_F_Ratio,0.0,1.0
+perc_alumni,0.0,1.0
+Expend,0.4,1.0
+Grad_Rate,0.0,1.0
+Private_Yes,0.0,1.0

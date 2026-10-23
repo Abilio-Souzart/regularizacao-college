@@ -1,0 +1,4 @@
+,λ ótimo da CV (1.383),λ 1-EP do LASSO (357.1)
+Ridge (α=0),0,0
+Elastic Net (α=0.5),0,1
+LASSO (α=1),0,15
